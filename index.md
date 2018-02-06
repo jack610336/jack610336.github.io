@@ -43,13 +43,20 @@
 
       <div class="mySlides w3-display-container w3-center">
       <h1>Jack</h1>
-       Hello，GitHub<br>
-       This page is useing for a test.
+       Hello!<br>
+       This page is using for a test.
       </div>
     </body>
 
 </html>
 
+
+This is a page to remind me what I learned.
+Maybe it will have some mistake!
+So If you find some mistake, Please tell me and give me some advices.
+It's will help us to improve ourself 
+This page will focus on Android App Development.
+Let's start from basic and grow up to be  professional.
 
 ### Java 本質
   * Collection (**sdsdsds**)
