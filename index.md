@@ -20,11 +20,28 @@
 <meta name="msapplication-TileImage" content="/img/bookicon.png">
 <meta name="msapplication-TileColor" content="#226533">
 </head>
+  <body>
 
 
+      <div class="w3-bar w3-theme w3-large" style="z-index:4;">
 
-Android App Development
-=========
+        <a class="w3-bar-item w3-button w3-left w3-hover-white w3-large w3-theme w3-padding-16" href="javascript:void(0)" onclick="w3_open()">☰</a>
+
+      </div>
+
+      <div class="mySlides w3-display-container w3-center">
+
+          Hello!<br>
+          This page is using for a test.
+      </div>
+  </body>
+
+</html>
+
+
+# Android App Development
+
+
 This is a page to help me to remind me what I learned.   
 
 Maybe it will have some mistake!    
