@@ -42,7 +42,7 @@
       </div>
 
       <div class="mySlides w3-display-container w3-center">
-      <h1>Jack</h1>
+      <h1>Android App Development</h1>
        Hello!<br>
        This page is using for a test.
       </div>
@@ -53,8 +53,6 @@
 <title>Hello，GitHub</title>
 
 
-Hello，GitHub
-=============
 This is a page to help me to remind me what I learned.   
 
 Maybe it will have some mistake!    
