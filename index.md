@@ -42,15 +42,17 @@
       </div>
 
       <div class="mySlides w3-display-container w3-center">
-      <h1>Android App Development</h1>
-       Hello!<br>
-       This page is using for a test.
+
+
       </div>
     </body>
 
 </html>
 
-<title>Hello，GitHub</title>
+# <center>Android App Development</center>
+##### <center>Hello World !</center>    
+
+
 
 
 This is a page to help me to remind me what I learned.   
@@ -67,16 +69,18 @@ Let's start from basic and grow up to be professional.
 
 
 
-### Android
+## Android
+
   * Android Introduction
   * How to set up the development environment
+  * First App in Android
 
-### What I'm doing now !
+## What I'm doing now !
   * Studying Android using FireBase  
 
 
 
-<center>This is for code Test</center>
+<center>This code is for Test</center>
 
 ``` java
 private void showGroupNameDialog() {  
