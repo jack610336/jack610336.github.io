@@ -45,10 +45,10 @@ FireBase
 
 登入之後，點選GET STARTED，我們就可以進入下一步了      
 
-![FirebaseLogin](/img/FirebaseLogin.png "FirebaseLogin")
+![FirebaseLogin](https://github.com/jack610336/jack610336.github.io/blob/master/img/FirebaseLogin.png "FirebaseLogin")
 
 進入Firebase console的畫面，目前我是有兩個專案，不過我們新開一個專案來做測試看看。   
 
-![FirebaseConsole](/img/FirebaseConsole.png "FirebaseConsole")
+![FirebaseConsole](https://github.com/jack610336/jack610336.github.io/blob/master/img/firebaseConsole.png "FirebaseConsole")
 
 首先我們需要一個android 專案後，將
