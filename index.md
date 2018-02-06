@@ -1,44 +1,102 @@
 ---
-layout: page
 title: Android App Development
-tagline: TEST what to do 
 ---
-{% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+<html>
+  <head>
+  <!-- Favicon and touch icons -->
+<link type="image/x-icon" href="/img/favicon.ico" rel="icon" />
+<link type="image/x-icon" href="/img/favicon.ico" rel="shortcut icon" />
+<link type="image/x-icon" href="/img/favicon.ico" rel="bookmark" />
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+<!-- Favicon for Chrome -->
+<link rel="icon" type="image/png" href="/img/bookicon.png" />
 
-## Update Author Attributes
+<!-- Favicon for Safari Web Clips-->
+<link rel="apple-touch-icon-precomposed" href="/img/bookicon.png" />
+<link rel='apple-touch-icon-precomposed' sizes="76x76" href="/img/bookicon.png" />
+<link rel='apple-touch-icon-precomposed' sizes="114x114" href="/img/bookicon.png" />
+<link rel='apple-touch-icon-precomposed' sizes="120x120" href="/img/bookicon.png" />
+<link rel='apple-touch-icon-precomposed' sizes="144x144" href="/img/bookicon.png" />
+<link rel='apple-touch-icon-precomposed' sizes="152x152" href="/img/bookicon.png" />
 
-In `_config.yml` remember to specify your own data:
+<!-- Favicon for Win10 Edge -->
+<meta name="msapplication-TileImage" content="/img/bookicon.png">
+<meta name="msapplication-TileColor" content="#226533">
 
-    title : My Blog =)
+    <meta charset="utf-8">
 
-    author :
-      name : Jack
-      email : leechun3001@gmail.com
-      github : jack610336
+  </head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <style>
+      .w3-theme {color:#fff !important;background-color:rgb(90, 180, 207) !important}
+      .w3-btn {background-color:rgb(90, 180, 207);margin-bottom:4px}
+      .w3-code{border-left:4px solid rgb(90, 180, 207)}
+      .myMenu {margin-bottom:150px}
+      </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <body>
 
 
-The theme should reference these variables whenever needed.
+      <div class="w3-bar w3-theme w3-large" style="z-index:4;">
 
-## Sample Posts
+        <a class="w3-bar-item w3-button w3-left w3-hover-white w3-large w3-theme w3-padding-16" href="javascript:void(0)" onclick="w3_open()">☰</a>
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+      </div>
 
-    $ rm -rf _posts/core-samples
+      <div class="mySlides w3-display-container w3-center">
 
-Here's a sample "posts list".
 
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+      </div>
+    </body>
 
-## To-Do
+</html>
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
+# <center>Android App Development</center>
+##### <center>Hello World !</center>    
+
+
+
+
+This is a page to help me to remind me what I learned.   
+
+Maybe it will have some mistake!    
+
+So If you find some mistake, Please tell me and give me some advices.
+
+It's will help us to improve ourself.   
+
+This page will focus on Android App Development.    
+
+Let's start from basic and grow up to be professional.   
+
+
+
+## Android
+
+  * Android Introduction
+  * How to set up the development environment
+  * First App in Android
+
+## What I'm doing now !
+  * Studying Android using FireBase  
+
+
+
+<center>This code is for Test</center>
+
+``` java
+private void showGroupNameDialog() {  
+    GroupDialogFragment dialog = new GroupDialogFragment();  
+   dialog.show(getFragmentManager(), "groupDialog");  
+}
+```
+
+``` java
+@Override  
+protected void onCreate(Bundle savedInstanceState) {  
+    super.onCreate(savedInstanceState);  
+   setContentView(R.layout.activity_main);
+}
+```
