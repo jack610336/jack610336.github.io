@@ -52,10 +52,10 @@
 
 
 This is a page to remind me what I learned.
-Maybe it will have some mistake!
+Maybe it will have some mistake!  
 So If you find some mistake, Please tell me and give me some advices.
-It's will help us to improve ourself 
-This page will focus on Android App Development.
+It's will help us to improve ourself. 
+This page will focus on Android App Development.  
 Let's start from basic and grow up to be  professional.
 
 ### Java 本質
