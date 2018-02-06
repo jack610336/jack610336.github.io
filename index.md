@@ -25,3 +25,21 @@ $ cd dillinger
 $ npm install -d
 $ node app
 ```
+
+
+``` java
+private void showGroupNameDialog() {  
+    GroupDialogFragment dialog = new GroupDialogFragment();  
+   dialog.show(getFragmentManager(), "groupDialog");  
+}
+
+```
+
+
+``` java
+@Override  
+protected void onCreate(Bundle savedInstanceState) {  
+    super.onCreate(savedInstanceState);  
+   setContentView(R.layout.activity_main);
+}
+```
