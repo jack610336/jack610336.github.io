@@ -21,7 +21,7 @@
 <meta name="msapplication-TileColor" content="#226533">
 
     <meta charset="utf-8">
-    <title>Hello，GitHub</title>
+
   </head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -33,7 +33,7 @@
       </style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <body>
-
+  <title>Hello，GitHub</title>
 
       <div class="w3-bar w3-theme w3-large" style="z-index:4;">
 
@@ -62,6 +62,7 @@ It's will help us to improve ourself.
 This page will focus on Android App Development.    
 
 Let's start from basic and grow up to be professional.   
+
 
 
 ### Android
