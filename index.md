@@ -51,7 +51,7 @@
 </html>
 
 
-This is a page to remind me what I learned.   
+This is a page to help me to remind me what I learned.   
 
 Maybe it will have some mistake!    
 
@@ -66,7 +66,7 @@ Let's start from basic and grow up to be professional.
 
 ### Android
   * Android Introduction
-  * How to set up the development environment 
+  * How to set up the development environment
 
 ### What I'm doing now !
   * Studying Android using FireBase  
