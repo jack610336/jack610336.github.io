@@ -34,7 +34,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </html>
 
-# FireBase
+# Android 使用 FireBase 註冊及教學
 
 #### 導入FireBase
 
@@ -65,3 +65,41 @@
 * GROW - 預測功能、雲端推播(FCM)、AdMod...
 
 ![firebaseFirstLogin](https://raw.githubusercontent.com/jack610336/jack610336.github.io/master/img/firebaseFirstLogin.png "firebaseFirstLogin")
+
+接下來我們按下將Firebase加入Android程式中，會需要我們註冊應用程式，只需要依照需求填寫套件名稱即可，SHA-1憑證可以在此步驟先完成，有做此步驟的App才可使用Google登入或電話認證功能。
+
+![addFirebaseToProject](https://raw.githubusercontent.com/jack610336/jack610336.github.io/master/img/addFirebaseToProject.png "addFirebaseToProject")
+
+開啟我們的專案，右方有一個Gradle的側頁面，開啟後在Task中找到signingReport，點擊兩下執行檔案，這時候我們在開啟右下角的Gradle Console，就可以看到我們的SHA-1憑證，將其複製下來貼上即可註冊應用程式至Firebase中
+
+![signingReport](https://raw.githubusercontent.com/jack610336/jack610336.github.io/master/img/signingReport.png "signingReport")
+
+第二步，我們就照著圖片所教的，將google-services.json放進Android Studio中的專案
+
+![addFirebaseToProject2](https://raw.githubusercontent.com/jack610336/jack610336.github.io/master/img/addFirebaseToProject2.png "addFirebaseToProject2")
+
+最後一個步驟，根據Firebase的說明，添加Gradle中的設定
+
+在project的build.gradle加入下列相依性
+
+``` java
+buildscript {
+  dependencies {
+    // Add this line
+    classpath 'com.google.gms:google-services:3.1.0'
+  }
+}
+```
+
+在app的build.gradle加入下列相依性，請注意，這行必須加在最後一行，如果沒有放在最後一行在Sync的時候會有錯誤產生
+
+``` java
+// Add to the bottom of the file
+apply plugin: 'com.google.gms.google-services'
+```
+
+![addFirebaseToProject3](https://raw.githubusercontent.com/jack610336/jack610336.github.io/master/img/addFirebaseToProject3.png "addFirebaseToProject3")
+
+將上述步驟都完成後，我們就將App加入Firebase了    
+
+接下來我們就會開始介紹如何在Android Studio中啟用Firebase的功能    
