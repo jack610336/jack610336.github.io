@@ -1,26 +1,26 @@
 ### Java 本質
   * Collection (**sdsdsds**)
-    * sdsdsdsdsd 
+    * sdsdsdsdsd
   * Reflection (**sdsd**)
     * ㄎ.
   * Lambda (**sdsd**)
     * 445
   * Android常見Pattern (**sdsd**)
     * sdsdsdsddsdsd.
-      
+
 
 ### Android
   *123132
   213132
 
 ### sdsdsdsdsd
-  * 
+  *
 
 ### 待續...
-  * 
+  *
 
 
- 　```sh
+```sh
 $ cd dillinger
 $ npm install -d
 $ node app
@@ -32,7 +32,6 @@ private void showGroupNameDialog() {
     GroupDialogFragment dialog = new GroupDialogFragment();  
    dialog.show(getFragmentManager(), "groupDialog");  
 }
-
 ```
 
 
