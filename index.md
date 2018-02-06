@@ -64,34 +64,16 @@ This page will focus on Android App Development.
 Let's start from basic and grow up to be professional.   
 
 
-### Java 本質
-  * Collection (**sdsdsds**)
-    * sdsdsdsdsd
-  * Reflection (**sdsd**)
-    * ㄎ.
-  * Lambda (**sdsd**)
-    * 445
-  * Android常見Pattern (**sdsd**)
-    * sdsdsdsddsdsd.
-
-
 ### Android
-  *123132
-  213132
+  * Android Introduction
+  * How to set up the development environment 
 
-### sdsdsdsdsd
-  *
-
-### 待續...
-  *
+### What I'm doing now !
+  * Studying Android using FireBase  
 
 
-```sh
-$ cd dillinger
-$ npm install -d
-$ node app
-```
 
+This is for code Test
 
 ``` java
 private void showGroupNameDialog() {  
@@ -99,7 +81,6 @@ private void showGroupNameDialog() {
    dialog.show(getFragmentManager(), "groupDialog");  
 }
 ```
-
 
 ``` java
 @Override  
