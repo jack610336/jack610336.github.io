@@ -33,7 +33,7 @@
       </style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <body>
-  <title>Hello，GitHub</title>
+
 
       <div class="w3-bar w3-theme w3-large" style="z-index:4;">
 
@@ -50,6 +50,7 @@
 
 </html>
 
+<title>Hello，GitHub</title>
 
 This is a page to help me to remind me what I learned.   
 
