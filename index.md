@@ -52,6 +52,9 @@
 
 <title>Hello，GitHub</title>
 
+
+Hello，GitHub
+=============
 This is a page to help me to remind me what I learned.   
 
 Maybe it will have some mistake!    
@@ -75,7 +78,7 @@ Let's start from basic and grow up to be professional.
 
 
 
-This is for code Test
+<center>This is for code Test</center>
 
 ``` java
 private void showGroupNameDialog() {  
