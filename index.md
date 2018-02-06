@@ -19,7 +19,19 @@
 <!-- Favicon for Win10 Edge -->
 <meta name="msapplication-TileImage" content="/img/bookicon.png">
 <meta name="msapplication-TileColor" content="#226533">
-</head>
+
+    <meta charset="utf-8">
+
+  </head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <style>
+      .w3-theme {color:#fff !important;background-color:rgb(90, 180, 207) !important}
+      .w3-btn {background-color:rgb(90, 180, 207);margin-bottom:4px}
+      .w3-code{border-left:4px solid rgb(90, 180, 207)}
+      .myMenu {margin-bottom:150px}
+      </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <body>
 
 
@@ -30,16 +42,15 @@
       </div>
 
       <div class="mySlides w3-display-container w3-center">
-
-          Hello!<br>
-          This page is using for a test.
+      <h1>Android App Development</h1>
+       Hello!<br>
+       This page is using for a test.
       </div>
-  </body>
+    </body>
 
 </html>
 
-
-# Android App Development
+<title>Hello，GitHub</title>
 
 
 This is a page to help me to remind me what I learned.   
