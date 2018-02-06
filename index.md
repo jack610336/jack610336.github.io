@@ -1,5 +1,25 @@
 <html>
   <head>
+  <!-- Favicon and touch icons -->
+<link type="image/x-icon" href="/img/favicon.ico" rel="icon" />
+<link type="image/x-icon" href="/img/favicon.ico" rel="shortcut icon" />
+<link type="image/x-icon" href="/img/favicon.ico" rel="bookmark" />
+
+<!-- Favicon for Chrome -->
+<link rel="icon" type="image/png" sizes="192x192" href="/img/bookicon.png" />
+
+<!-- Favicon for Safari Web Clips-->
+<link rel="apple-touch-icon-precomposed" href="/img/bookicon.png" />
+<link rel='apple-touch-icon-precomposed' sizes="76x76" href="/img/bookicon.png" />
+<link rel='apple-touch-icon-precomposed' sizes="114x114" href="/img/bookicon.png" />
+<link rel='apple-touch-icon-precomposed' sizes="120x120" href="/img/bookicon.png" />
+<link rel='apple-touch-icon-precomposed' sizes="144x144" href="/img/bookicon.png" />
+<link rel='apple-touch-icon-precomposed' sizes="152x152" href="/img/bookicon.png" />
+
+<!-- Favicon for Win10 Edge -->
+<meta name="msapplication-TileImage" content="/img/bookicon.png.png">
+<meta name="msapplication-TileColor" content="#226533">
+
     <meta charset="utf-8">
     <title>Hello，GitHub</title>
   </head>
