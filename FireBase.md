@@ -30,12 +30,11 @@
       .w3-btn {background-color:rgb(90, 180, 207);margin-bottom:4px}
       .w3-code{border-left:4px solid rgb(90, 180, 207)}
       .myMenu {margin-bottom:150px}
-      </style>
+  </style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </html>
-FireBase
-=========
 
+# FireBase
 
 #### 導入FireBase
 
@@ -51,4 +50,18 @@ FireBase
 
 ![FirebaseConsole](https://raw.githubusercontent.com/jack610336/jack610336.github.io/master/img/firebaseConsole.png "FirebaseConsole")
 
-首先我們需要一個android 專案後，將
+按下新增專案後，需要給他一個專案名稱和所在位置的國家，ID部分我們不需去改變，他是firebase自動幫我們產生的一個唯一ID，確認好後我們就建立新專案了!
+
+![bmitest](https://raw.githubusercontent.com/jack610336/jack610336.github.io/master/img/bmitest.png "bmitest")
+
+我們可以在右邊看到有Project Overview和四大分類的項目
+
+在Project Overview中 我們可以將Android App、iOS App或網路程式加入firebase中。    
+而四個分類的細節分別如下 :
+
+* DEVELOP - 帳號驗證、資料庫、Hosting...
+* STABILITY - 效能分析、當機報告、測試APP...
+* ANALYTICS - App 分析、點擊量分析、下載群眾區域...
+* GROW - 預測功能、雲端推播(FCM)、AdMod...
+
+![firebaseFirstLogin](https://raw.githubusercontent.com/jack610336/jack610336.github.io/master/img/firebaseFirstLogin.png "firebaseFirstLogin")
