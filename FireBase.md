@@ -1,3 +1,7 @@
+---
+title: Android 使用 FireBase 註冊及教學
+---
+
 <html>
   <head>
   <!-- Favicon and touch icons -->
@@ -101,5 +105,7 @@ apply plugin: 'com.google.gms.google-services'
 ![addFirebaseToProject3](https://raw.githubusercontent.com/jack610336/jack610336.github.io/master/img/addFirebaseToProject3.png "addFirebaseToProject3")
 
 將上述步驟都完成後，我們就將App加入Firebase了    
+
+![finished](https://raw.githubusercontent.com/jack610336/jack610336.github.io/master/img/finished.png "finished")
 
 接下來我們就會開始介紹如何在Android Studio中啟用Firebase的功能    
