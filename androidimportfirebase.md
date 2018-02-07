@@ -60,3 +60,8 @@ title: FireBase Database 功能，將資料寫入雲端資料庫中
 連接完成後，我們需要將 Realtime Database 加至我們的 App 中，所以案下去後，系統會提示我們目前缺少那些相依性，然後詢問是否要幫你自動加入並 Sync，當相依性添加完成後，就很簡單的完成了連接的動作了，接下來我們需要的是在 Firebase 上的資料庫進行一下簡易的設定，就可以回到 Project 準備開始寫程式了
 
 ![addDatabase](https://raw.githubusercontent.com/jack610336/jack610336.github.io/master/img/addDatabase.png "addDatabase")
+
+接下來我們要開啟Firebase的網頁，選取 Database ，目前有兩個選項可以用，分別是 Realtime Database 和 Cloud Firestore ，我們此篇是利用左邊的Realtime Datebase 實作，右邊的 Cloud Firestore 是目前 Google 新推出的企業需求為導向的雲端資料庫，在這裡就不詳細說明，各位有興趣或是下次有時間時，再來介紹一下 Cloud Firestore
+
+
+按下開始使用後，我們可以看到系統跳出一個善意的提醒，寫著"預設安全性規則要求使用者進行驗證"，這句話的意思是說，如果要使用資料庫，一定要先經過身分驗證，例如註冊成會員之類的，才能進行存取，我們在這邊只需要存取而已，所以我們進去規則的部分，改一下他目前的預設規定，
