@@ -37,14 +37,11 @@ title: About Lee Chun wang
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </html>
 
-
-
-# About
+# About Lee Chun
 
 I am an Android App Developer aiming to become a great App Developer.
 I like my work and coding with Apps since I was a university student.
 In my free time I love to learn some new technology relate about computer science.
-
 
 # Work Experience
 
@@ -75,6 +72,6 @@ Department of information Management
 
 # Volunteer Experience
 
-* [Marshal - Alzheimer Society of Toronto](http://alz.to/)  01/2017 & 05/2017
-
-* *Marshals needed to greet, cheer and direct our walkers through the Walk route.*
+* [Marshal - Alzheimer Society of Toronto](http://alz.to/)    
+ 01/2017 & 05/2017    
+*Marshals needed to greet, cheer and direct our walkers through the Walk route.*
