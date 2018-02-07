@@ -75,9 +75,9 @@ Let's start from basic and grow up to be professional.
 
 ## Android
 
-  * Android Introduction
-  * How to set up the development environment
-  * First App in Android
+  * Android Introduction - Preparing
+  * How to set up the development environment - Preparing
+  * First App in Android - Preparing
 
 ## Fiebase
   * [Use Firebase create a project](/FireBase.md)
@@ -86,8 +86,12 @@ Let's start from basic and grow up to be professional.
 ## What I'm doing now !
   * Studying Android using FireBase  
 
-
-
+## [About me](/aboutme.md)
+  * Lee Chun, Wang (Jack) - Software Engineer
+  * Email : jack610336@gmail.com
+  * Website : https://jack610336.github.io/
+  * LinkedIn : [Lee Chun, Wang](https://www.linkedin.com/in/lee-chun-wang-4a19a2b3/)
+  * Github : [jack610336](https://github.com/jack610336)
 <center>This code is for Test</center>
 
 ``` java
