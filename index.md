@@ -80,8 +80,8 @@ Let's start from basic and grow up to be professional.
   * First App in Android
 
 ## Fiebase
-  * [Use Firebase create a project](/Firebase.md)
-  * [Firebase Realtime Datebase](/androidimportfirebase.md)
+  * [Use Firebase create a project](/Firebase)
+  * [Firebase Realtime Datebase](/androidimportfirebase)
 
 ## What I'm doing now !
   * Studying Android using FireBase  
