@@ -38,7 +38,7 @@ title: FireBase Database 功能，將資料寫入雲端資料庫中
 </html>
 
 
- FireBase Database 功能，將資料寫入雲端資料庫中
+# FireBase Database 功能，將資料寫入雲端資料庫中
 
 在上一篇我們完成了Firebase 的註冊及將我們的應用程式加入Firebase中，在這篇文章中我們會講到如何將資料讀寫進入Firebase的雲端資料庫中，只需要三個步驟即可完成簡單的讀寫功能    
 
@@ -48,7 +48,8 @@ title: FireBase Database 功能，將資料寫入雲端資料庫中
 
 #### 在 Android Studio 連接 Firebase
 
-在 Android Studio 中，非常容易就可以連接 Firebase，多虧了 Google 的強大，把許多功能整合進來，我們可以在工具列中的 Tools/Firebase 開啟 Firebase 助手，開啟後可以看到有許多的Firebase功能，分析、雲端訊息、認證...等等，這些都很簡單的整合在 Android Studio 中，只需要做幾個步驟就能使用了!    
+在 Android Studio 中，非常容易就可以連接 Firebase，多虧了 Google 的強大，把許多功能整合進來。   
+我們可以在工具列中的 Tools/Firebase 開啟 Firebase 助手，開啟後可以看到有許多的Firebase功能，分析、雲端訊息、認證...等等，這些都很簡單的整合在 Android Studio 中，只需要做幾個步驟就能使用了!    
 
 ![FirebaseAss](https://raw.githubusercontent.com/jack610336/jack610336.github.io/master/img/FirebaseAss.png "FirebaseAss")
 
