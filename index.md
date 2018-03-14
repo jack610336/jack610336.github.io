@@ -92,9 +92,10 @@ Let's start from basic and grow up to be professional.
   * Website : [https://jack610336.github.io/](https://jack610336.github.io/)
   * LinkedIn : [Lee Chun, Wang](https://www.linkedin.com/in/lee-chun-wang-4a19a2b3/)
   * Github : [jack610336](https://github.com/jack610336)
-  * Resume : [Resume of Lee Chun](/aboutme.md)
+
 <center>This code is for Test</center>
 
+``` java
 ``` java
 private void showGroupNameDialog() {  
     GroupDialogFragment dialog = new GroupDialogFragment();  
