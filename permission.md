@@ -60,5 +60,10 @@ public void onRequestPermissionsResult(int requestCode, @NonNull String[] permis
 
 
 ## Reference
+<<<<<<< HEAD
 Request App Permissions : [https://developer.android.com/training/permissions/requesting.html#perm-check](https://developer.android.com/training/permissions/requesting.html#perm-check)   
 Permissions Overview : [https://developer.android.com/guide/topics/permissions/overview.html](https://developer.android.com/guide/topics/permissions/overview.html)
+=======
+Request App Permissions : https://developer.android.com/training/permissions/requesting.html#perm-check   
+Permissions Overview : https://developer.android.com/guide/topics/permissions/overview.html
+>>>>>>> cf06579ae7608a314c82464f3589d7f7e915ec6a
