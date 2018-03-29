@@ -83,8 +83,11 @@ Let's start from basic and grow up to be professional.
   * [Use Firebase create a project](/FireBase.md)
   * [Firebase Realtime Datebase](/androidimportfirebase.md)
 
+## Permission
+  * [Dangerous Permission - Request App Permissions](/permission.md)
+
 ## What I'm doing now !
-  * Studying Android using FireBase  
+  * Studying Google Map Android API   
 
 ## [About me](/aboutme.md)
   * Lee Chun, Wang (Jack) - Software Engineer
