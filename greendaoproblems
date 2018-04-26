@@ -1,0 +1,30 @@
+greendao 更新資料問題
+
+
+在使用update()的時候跑出RuntimeException
+Cannot update entity without key - was it inserted before?
+
+這個問題應用的環境：表中有滿足的查詢條件，但是不重複，有這筆資料的話則跟新資料
+如果這筆資料是新的話，就新增一筆資料進表中
+
+方法: 查詢條件紀錄，在取出id值給新的紀錄
+解决问题的方法：查询表中满足条件的记录，取其id赋值给新记录。
+部分代码块
+
+数据操作封装
+public void cache(Cache cache) {
+    String address = cache.getAccessAddress();
+    QueryBuilder<Cache> builder = mCacheManager.queryBuilder().
+    where(Properties.AccessAddress.eq(address));
+
+    List<Cache> list = builder.list();
+    if (null == list || list.isEmpty()) {
+        // 未暫存
+        mCacheManager.insert(cache);
+    } else {
+        // 新資料傳進來的值為null
+        Cache entity = list.get(0);
+        cache.setId(entity.getId());
+        mCacheManager.update(cache);
+    }
+}
