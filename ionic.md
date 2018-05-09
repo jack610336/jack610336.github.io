@@ -45,6 +45,7 @@ $ ionic cordova build android        # build an android apk
 $ ionic cordova run android          # build and run in a emulate or real phone
 ```
 
+在 ion-icon 中 顏色預設值有下列幾種，呈現出來的效果，我也附上截圖供大家參考一下~
 ```html
   <ion-icon name="heart" color="bright"></ion-icon>
   <ion-icon name="heart" color="vibrant"></ion-icon>
