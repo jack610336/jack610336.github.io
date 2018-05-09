@@ -36,20 +36,7 @@ title: Android App Development
       .myMenu {margin-bottom:150px}
       </style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <body>
 
-
-      <div class="w3-bar w3-theme w3-large" style="z-index:4;">
-
-        <a class="w3-bar-item w3-button w3-left w3-hover-white w3-large w3-theme w3-padding-16" href="javascript:void(0)" onclick="w3_open()">☰</a>
-
-      </div>
-
-      <div class="mySlides w3-display-container w3-center">
-
-
-      </div>
-    </body>
 
 </html>
 
@@ -86,8 +73,11 @@ Let's start from basic and grow up to be professional.
 ## Permission
   * [Dangerous Permission - Request App Permissions](/permission.md)
 
+## Ionic Framework
+  * [Getting Started with Ionic](/ionic.md)
+
 ## What I'm doing now !
-  * Studying Google Map Android API   
+  * Studying Ionic Framework   
 
 ## [About me](/aboutme.md)
   * Lee Chun, Wang (Jack) - Software Engineer
@@ -97,15 +87,6 @@ Let's start from basic and grow up to be professional.
   * Github : [jack610336](https://github.com/jack610336)
 
 <center>This code is for Test</center>
-
-``` java
-``` java
-private void showGroupNameDialog() {  
-    GroupDialogFragment dialog = new GroupDialogFragment();  
-   dialog.show(getFragmentManager(), "groupDialog");  
-}
-```
-
 ``` java
 @Override  
 protected void onCreate(Bundle savedInstanceState) {  
