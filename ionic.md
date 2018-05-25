@@ -46,6 +46,14 @@ $ ionic cordova build android        # build an android apk
 $ ionic cordova run android          # build and run in a emulate or real phone
 ```
 
+我們要如何debug呢? 在寫程式的時候，我們可以開啟測試伺服器，用下列指令就可以成功的開啟
+下列的兩個指令都可以開啟，只是差別在預設開啟網頁的不同而已，大家可以實際的試試看，就知道我說的是甚麼意思了。 我個人是喜歡用第一個方法， --lab 。
+```
+$ ionic serve --lab
+```
+```
+$ ionic serve
+```
 在 ion-icon 中 顏色預設值有下列幾種，呈現出來的效果，我也附上截圖供大家參考一下~
 ```html
   <ion-icon name="heart" color="bright"></ion-icon>

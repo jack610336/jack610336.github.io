@@ -173,7 +173,7 @@ https://github.com/alibaba/AndFix/raw/master/tools/apkpatch-1.0.3.zip
 * 按下shift + 滑鼠右鍵，可以看到一個選項為在此處打開一個命令窗口。
 * 打開命令提示字元，將目錄切換到目前的資料夾即可。    
 
-在dos畫面輸入下方指令
+在cmd畫面輸入下方指令
 
 ```txt
 apkpatch.bat -f new.apk -t old.apk -o output -k debug.jks -p debug_password -a androiddebugkey -e androiddebugkey_password
