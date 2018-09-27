@@ -63,3 +63,11 @@ $ ionic serve
   <ion-icon name="heart" color="primary"></ion-icon>
 ```
 ![heart](https://raw.githubusercontent.com/jack610336/jack610336.github.io/master/img/heart.png "heart")
+
+
+```html
+<ion-input type="text"
+                  autocomplete ="on"   // 新增鍵盤的選字完成列
+                  autocorrect="on"    //新增鍵盤選字
+                  clearInput > </ion-input>  //右邊多一個叉叉可以清掉文字
+```
