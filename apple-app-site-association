@@ -1,0 +1,15 @@
+{
+   "applinks":{
+      "apps":[
+         
+      ],
+      "details":[
+         {
+            "appID":"A5TUZTAA2N.jack.UniversalLink",
+            "paths":[
+               "*"
+            ]
+         }
+      ]
+   }
+}
